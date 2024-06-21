@@ -1,6 +1,6 @@
 # Hackintosh, Gigabyte X570S Aero G, Ryzen 9 5950X, RX 6900 XTXH
 
-!!!OVERVIEW!!!
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-X570S-AERO-G-RYZEN-9-5950X-RX-6900-XTXH-PUBLIC/assets/23700365/1c5dd910-0e06-48be-8ac6-14ee491d32b4)
 
 # Basic Information
 
